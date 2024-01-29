@@ -67,7 +67,8 @@ certbot --nginx -d hashgamegsf.kba.ai
 Rules
 ```
 ufw allow 22
-ufw allow 8080
+ufw allow 80
+ufw allow 443
 ```
 Enable Firewall
 ```
