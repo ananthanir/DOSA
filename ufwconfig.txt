@@ -1,0 +1,4 @@
+ufw allow 22
+ufw allow 8080
+ufw enable
+ufw status
